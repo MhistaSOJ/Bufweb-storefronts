@@ -1,0 +1,6 @@
+{
+  "name": "Design Intelligence - 1,000 Template Studio",
+  "description": "An international website builder engine powered by 300 design intelligence rules and 1,000+ distinct, validated website templates with reference analysis and customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
